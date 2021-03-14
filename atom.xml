@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ma1238906.github.io</id>
     <title>骏鹏</title>
-    <updated>2021-03-14T13:50:57.342Z</updated>
+    <updated>2021-03-14T13:56:51.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ma1238906.github.io"/>
     <link rel="self" href="https://ma1238906.github.io/atom.xml"/>
     <logo>https://ma1238906.github.io/images/avatar.png</logo>
     <icon>https://ma1238906.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 骏鹏</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea搭建个人博客, 超简单]]></title>
+        <id>https://ma1238906.github.io/post/gridea-da-jian-ge-ren-bo-ke-chao-jian-dan/</id>
+        <link href="https://ma1238906.github.io/post/gridea-da-jian-ge-ren-bo-ke-chao-jian-dan/">
+        </link>
+        <updated>2021-03-14T13:52:46.000Z</updated>
+        <content type="html"><![CDATA[<p>你好，欢迎开始愉快的 Gridea 之旅呀～</p>
+<p>安装<br>
+安装 Gridea<br>
+写作<br>
+相信你自己可以搞得定哦，加油写作啦！</p>
+<p>发布<br>
+Gridea 提供了将博客部署到 GitHub Pages、Coding Pages 和通过 SFTP 的方式上传到自己的服务器的功能。下面将以 GitHub 为例，来讲一下部署流程。</p>
+<p>创建 GitHub 账号，并创建一个仓库 Token。点击GitHub，进行注册。登录 GitHub 之后，点击这里创建一个 Token，勾选上 repo 的相关权限即可。生成之后记得把 Token 复制到你的本地，因为一旦关闭网页将不能再看到它。</p>
+<p>创建仓库，存放构建后的网站文件。创建一个公开仓库，名为用户名.github.io。（将用户名替换为你的 GitHub 用户名）</p>
+<p>进入 Gridea 进行远程设置。按照下图的示例进行设置，然后点击「检测远程链接」，进行配置检查。</p>
+<p>同步。点击 Gridea 中的 同步按钮即可。初次部署等待几分钟之后就可以去浏览器访问了，默认地址为你在第 3 步所填写的域名。</p>
+<p>以上，就完成一个静态博客的搭建了，期待你的每一次落笔成文。</p>
+]]></content>
+    </entry>
 </feed>
